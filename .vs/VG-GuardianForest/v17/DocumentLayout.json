@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|c:\\users\\acer\\desktop\\guardianforest\\vg-guardianforest\\assets\\scripts\\movimientoceldas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movimientoceldas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\assets\\scripts\\obtenerobjeton2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obtenerobjeton2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\assets\\scripts\\obtenerobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obtenerobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovimientoCeldas.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\Assets\\Scripts\\MovimientoCeldas.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovimientoCeldas.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\Assets\\Scripts\\MovimientoCeldas.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovimientoCeldas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:58:59.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObtenerObjetoN2.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\Assets\\Scripts\\ObtenerObjetoN2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObtenerObjetoN2.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\Assets\\Scripts\\ObtenerObjetoN2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObtenerObjetoN2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:15:48.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObtenerObjeto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\Assets\\Scripts\\ObtenerObjeto.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObtenerObjeto.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\Assets\\Scripts\\ObtenerObjeto.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObtenerObjeto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:49:02.335Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{7B94622F-6E96-3BCB-C87B-2BD379C82D2F}</ProjectGuid>
+    <ProjectGuid>{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -64,6 +64,8 @@
     <Compile Include="Assets\Scripts\MainMenuController.cs" />
     <Compile Include="Assets\TopDown 2D RPG BE3\ReadMe\Scripts\ReadmeBE3.cs" />
     <Compile Include="Assets\Scripts\Enemy1.cs" />
+    <Compile Include="Assets\Scripts\ObtenerObjetoN2.cs" />
+    <Compile Include="Assets\Scripts\MovimientoCeldasN2.cs" />
     <Compile Include="Assets\Scripts\ObtenerObjeto.cs" />
   </ItemGroup>
   <ItemGroup>
