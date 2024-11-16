@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movimientoceldas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|c:\\users\\acer\\desktop\\guardianforest\\vg-guardianforest\\assets\\scripts\\obtenerobjeton2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\assets\\scripts\\obtenerobjeton2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obtenerobjeton2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|c:\\users\\acer\\desktop\\guardianforest\\vg-guardianforest\\assets\\scripts\\obtenerobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\assets\\scripts\\obtenerobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obtenerobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\MovimientoCeldas.cs",
               "ToolTip": "C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\Assets\\Scripts\\MovimientoCeldas.cs",
               "RelativeToolTip": "Assets\\Scripts\\MovimientoCeldas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T22:58:59.068Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Assets\\Scripts\\ObtenerObjetoN2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T22:15:48.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T22:15:48.59Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Assets\\Scripts\\ObtenerObjeto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T16:49:02.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T16:49:02.335Z"
             }
           ]
         }
