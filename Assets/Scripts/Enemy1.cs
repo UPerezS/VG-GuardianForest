@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using System;
 
 public class Enemy1 : MonoBehaviour
 {
@@ -9,6 +10,7 @@ public class Enemy1 : MonoBehaviour
     private Transform player;
     private Animator animator;
     private bool puedeMoverse = false;
+    public event EventHandler MuerteJugador;
 
     // Límites del mapa
     public float limiteIzquierda = -7.5f;
@@ -69,8 +71,8 @@ public class Enemy1 : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
+            MuerteJugador?.Invoke(this, EventArgs.Empty);
             Debug.Log("Perdiste!");
-            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
     }
 }
