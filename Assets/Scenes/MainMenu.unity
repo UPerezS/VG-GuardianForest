@@ -1062,7 +1062,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -8, y: -324}
+  m_AnchoredPosition: {x: -15, y: -324}
   m_SizeDelta: {x: 278.41, y: 155.969}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &655688600
@@ -1909,8 +1909,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Controles del juego:\r\nUsa las flechas del teclado para moverte:\r\n\r\n   
-    \u2191: Mover hacia arriba\r\n    \u2193: Mover hacia abajo\r\n    \u2190: Mover
-    hacia la izquierda\r\n    \u2192: Mover hacia la derecha\r\n\r\n\xA1Prep\xE1rate
+    \"^\": Mover hacia arriba\r\n    \"v\": Mover hacia abajo\r\n    \"<\": Mover
+    hacia la izquierda\r\n    \">\": Mover hacia la derecha\r\n\r\n\xA1Prep\xE1rate
     para explorar y disfrutar la aventura!"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 64fb7ce1b8d82c14b996728b6c2d3063, type: 2}
@@ -7060,7 +7060,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -123, y: -176}
+  m_AnchoredPosition: {x: -140, y: -176}
   m_SizeDelta: {x: 335.401, y: 127.373}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1911483072
