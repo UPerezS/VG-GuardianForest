@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class MovimientoCeldas : MonoBehaviour
 {
@@ -12,11 +13,16 @@ public class MovimientoCeldas : MonoBehaviour
     public float limiteDerecha = 7.5f;
     public float limiteArriba = 3.5f;
     public float limiteAbajo = -3.5f;
+    private int score = 0;
+    public TextMeshProUGUI scoreText;
+    private ControladorDatosJuego controladorDatos;
 
     void Start()
     {
         animator = GetComponent<Animator>();
-        rb2D = GetComponent<Rigidbody2D>(); 
+        rb2D = GetComponent<Rigidbody2D>();
+
+        controladorDatos = FindObjectOfType<ControladorDatosJuego>();
     }
 
     void Update()
@@ -36,4 +42,26 @@ public class MovimientoCeldas : MonoBehaviour
         animator.SetFloat("Horizontal", movimientoHorizontal);
         animator.SetFloat("Vertical", movimientoVertical);
     }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("CanBePickedUp"))
+        {
+            Consumable consumable = collision.gameObject.GetComponent<Consumable>();
+            if (consumable != null)
+            {
+                Item hitObject = consumable.item;
+                if (hitObject != null)
+                {
+                    print("Nombre: " + hitObject.objectName);
+
+                    controladorDatos.score += 10;
+                    controladorDatos.scoreText.text = "Puntaje: " + controladorDatos.score;
+
+                    collision.gameObject.SetActive(false);
+                }
+            }
+        }
+    }
+
 }
