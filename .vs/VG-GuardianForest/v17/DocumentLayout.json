@@ -1,33 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\cu408\\OneDrive\\Documentos\\Video Juegos\\VG-GuardianForest\\",
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|c:\\users\\cu408\\onedrive\\documentos\\video juegos\\vg-guardianforest\\assets\\scripts\\enemy1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|c:\\users\\acer\\desktop\\guardianforest\\vg-guardianforest\\assets\\scripts\\obtenerobjeton3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obtenerobjeton3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|c:\\users\\cu408\\onedrive\\documentos\\video juegos\\vg-guardianforest\\assets\\scripts\\menugameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menugameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|C:\\Users\\cu408\\OneDrive\\Documentos\\Video Juegos\\VG-GuardianForest\\assets\\scripts\\obtenerobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obtenerobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|C:\\Users\\cu408\\OneDrive\\Documentos\\Video Juegos\\VG-GuardianForest\\assets\\scripts\\obtenerobjeton2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\assets\\scripts\\obtenerobjeton2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obtenerobjeton2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|C:\\Users\\cu408\\OneDrive\\Documentos\\Video Juegos\\VG-GuardianForest\\assets\\scripts\\movimientoceldasn2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|c:\\users\\acer\\desktop\\guardianforest\\vg-guardianforest\\assets\\scripts\\enemy1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\assets\\scripts\\menugameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menugameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\assets\\scripts\\obtenerobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obtenerobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\assets\\scripts\\movimientoceldasn2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movimientoceldasn2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|C:\\Users\\cu408\\OneDrive\\Documentos\\Video Juegos\\VG-GuardianForest\\assets\\scripts\\movimientoceldas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\assets\\scripts\\movimientoceldas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movimientoceldas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|c:\\users\\cu408\\onedrive\\documentos\\video juegos\\vg-guardianforest\\assets\\scripts\\menupause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\assets\\scripts\\menupause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menupause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -43,10 +47,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ObtenerObjetoN3.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\Assets\\Scripts\\ObtenerObjetoN3.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObtenerObjetoN3.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\Assets\\Scripts\\ObtenerObjetoN3.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObtenerObjetoN3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:58:29.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Enemy1.cs",
-              "DocumentMoniker": "C:\\Users\\cu408\\OneDrive\\Documentos\\Video Juegos\\VG-GuardianForest\\Assets\\Scripts\\Enemy1.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\Assets\\Scripts\\Enemy1.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy1.cs",
-              "ToolTip": "C:\\Users\\cu408\\OneDrive\\Documentos\\Video Juegos\\VG-GuardianForest\\Assets\\Scripts\\Enemy1.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\Assets\\Scripts\\Enemy1.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemy1.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAowEoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -55,81 +72,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MenuGameOver.cs",
-              "DocumentMoniker": "C:\\Users\\cu408\\OneDrive\\Documentos\\Video Juegos\\VG-GuardianForest\\Assets\\Scripts\\MenuGameOver.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\Assets\\Scripts\\MenuGameOver.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MenuGameOver.cs",
-              "ToolTip": "C:\\Users\\cu408\\OneDrive\\Documentos\\Video Juegos\\VG-GuardianForest\\Assets\\Scripts\\MenuGameOver.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\Assets\\Scripts\\MenuGameOver.cs",
               "RelativeToolTip": "Assets\\Scripts\\MenuGameOver.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAgwAwAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T17:48:44.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T17:48:44.464Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MenuPause.cs",
-              "DocumentMoniker": "C:\\Users\\cu408\\OneDrive\\Documentos\\Video Juegos\\VG-GuardianForest\\Assets\\Scripts\\MenuPause.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\Assets\\Scripts\\MenuPause.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MenuPause.cs",
-              "ToolTip": "C:\\Users\\cu408\\OneDrive\\Documentos\\Video Juegos\\VG-GuardianForest\\Assets\\Scripts\\MenuPause.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\Assets\\Scripts\\MenuPause.cs",
               "RelativeToolTip": "Assets\\Scripts\\MenuPause.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T17:34:41.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MovimientoCeldasN2.cs",
-              "DocumentMoniker": "C:\\Users\\cu408\\OneDrive\\Documentos\\Video Juegos\\VG-GuardianForest\\Assets\\Scripts\\MovimientoCeldasN2.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MovimientoCeldasN2.cs",
-              "ToolTip": "C:\\Users\\cu408\\OneDrive\\Documentos\\Video Juegos\\VG-GuardianForest\\Assets\\Scripts\\MovimientoCeldasN2.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MovimientoCeldasN2.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T22:46:45.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-16T17:34:41.259Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MovimientoCeldas.cs",
-              "DocumentMoniker": "C:\\Users\\cu408\\OneDrive\\Documentos\\Video Juegos\\VG-GuardianForest\\Assets\\Scripts\\MovimientoCeldas.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MovimientoCeldas.cs",
-              "ToolTip": "C:\\Users\\cu408\\OneDrive\\Documentos\\Video Juegos\\VG-GuardianForest\\Assets\\Scripts\\MovimientoCeldas.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MovimientoCeldas.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwAIAAAASAAAAAAAAAA==",
+              "Title": "MovimientoCeldasN2.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\Assets\\Scripts\\MovimientoCeldasN2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovimientoCeldasN2.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\Assets\\Scripts\\MovimientoCeldasN2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovimientoCeldasN2.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T22:58:59.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T22:46:45.852Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "MovimientoCeldas.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\Assets\\Scripts\\MovimientoCeldas.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovimientoCeldas.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\Assets\\Scripts\\MovimientoCeldas.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovimientoCeldas.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:58:59.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ObtenerObjetoN2.cs",
-              "DocumentMoniker": "C:\\Users\\cu408\\OneDrive\\Documentos\\Video Juegos\\VG-GuardianForest\\Assets\\Scripts\\ObtenerObjetoN2.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\Assets\\Scripts\\ObtenerObjetoN2.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ObtenerObjetoN2.cs",
-              "ToolTip": "C:\\Users\\cu408\\OneDrive\\Documentos\\Video Juegos\\VG-GuardianForest\\Assets\\Scripts\\ObtenerObjetoN2.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\Assets\\Scripts\\ObtenerObjetoN2.cs",
               "RelativeToolTip": "Assets\\Scripts\\ObtenerObjetoN2.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwAcAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T22:15:48.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ObtenerObjeto.cs",
-              "DocumentMoniker": "C:\\Users\\cu408\\OneDrive\\Documentos\\Video Juegos\\VG-GuardianForest\\Assets\\Scripts\\ObtenerObjeto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\Assets\\Scripts\\ObtenerObjeto.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ObtenerObjeto.cs",
-              "ToolTip": "C:\\Users\\cu408\\OneDrive\\Documentos\\Video Juegos\\VG-GuardianForest\\Assets\\Scripts\\ObtenerObjeto.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\GuardianForest\\VG-GuardianForest\\Assets\\Scripts\\ObtenerObjeto.cs",
               "RelativeToolTip": "Assets\\Scripts\\ObtenerObjeto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T16:49:02.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T16:49:02.335Z"
             }
           ]
         }

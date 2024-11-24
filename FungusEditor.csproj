@@ -86,8 +86,8 @@
     <Compile Include="Assets\Fungus\Scripts\Editor\VariableTypes\Vector3VariableDrawer.cs" />
     <Compile Include="Assets\Fungus\Scripts\Editor\VariableTypes\MaterialVariableDrawer.cs" />
     <Compile Include="Assets\Fungus\Scripts\Editor\VariableTypes\SpriteVariableDrawer.cs" />
-    <Compile Include="Assets\Fungus\Scripts\Editor\DialogInputEditor.cs" />
     <Compile Include="Assets\Fungus\Scripts\Editor\SolutionFileFixer.cs" />
+    <Compile Include="Assets\Fungus\Scripts\Editor\DialogInputEditor.cs" />
     <Compile Include="Assets\Fungus\Scripts\Editor\VariableTypes\RigidbodyVariableDrawer.cs" />
     <Compile Include="Assets\Fungus\Scripts\Editor\PopupContent\CommandSelectorPopupWindowContent.cs" />
     <Compile Include="Assets\Fungus\Scripts\Editor\VariableTypes\ColorVariableDrawer.cs" />
@@ -104,14 +104,14 @@
     <Compile Include="Assets\Fungus\Scripts\Editor\VariableListAdaptor.cs" />
     <Compile Include="Assets\Fungus\Scripts\Editor\GenerateVariableHelper.cs" />
     <Compile Include="Assets\Fungus\Scripts\Editor\VariableReferenceDrawer.cs" />
-    <Compile Include="Assets\Fungus\Scripts\Editor\EditorExtensions.cs" />
     <Compile Include="Assets\Fungus\Scripts\Editor\SerializedPropertyExtensions.cs" />
+    <Compile Include="Assets\Fungus\Scripts\Editor\EditorExtensions.cs" />
     <Compile Include="Assets\Fungus\Scripts\Editor\LabelEditor.cs" />
     <Compile Include="Assets\Fungus\Scripts\Editor\PopupContent\EventSelectorPopupWindowContent.cs" />
     <Compile Include="Assets\Fungus\Scripts\Editor\FlowchartMenuItems.cs" />
     <Compile Include="Assets\Fungus\Scripts\Editor\ExportReferenceDocs.cs" />
-    <Compile Include="Assets\Fungus\Scripts\Editor\LocalizationEditor.cs" />
     <Compile Include="Assets\Fungus\Scripts\Editor\HierarchyIcons.cs" />
+    <Compile Include="Assets\Fungus\Scripts\Editor\LocalizationEditor.cs" />
     <Compile Include="Assets\Fungus\Scripts\Editor\VariableTypes\AudioSourceVariableDrawer.cs" />
     <Compile Include="Assets\Fungus\Scripts\Editor\CustomVariableDrawerLookup.cs" />
     <Compile Include="Assets\Fungus\Scripts\Editor\PopupContent\VariableSelectPopupWindowContent.cs" />

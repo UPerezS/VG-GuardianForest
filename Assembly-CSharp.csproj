@@ -60,15 +60,21 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.45f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\2D Platformer\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\MovimientoCeldas.cs" />
     <Compile Include="Assets\Scripts\MainMenuController.cs" />
     <Compile Include="Assets\Scripts\MenuGameOver.cs" />
     <Compile Include="Assets\TopDown 2D RPG BE3\ReadMe\Scripts\ReadmeBE3.cs" />
+    <Compile Include="Assets\2D Platformer\Scripts\PlayerDeathState.cs" />
     <Compile Include="Assets\Scripts\Enemy1.cs" />
+    <Compile Include="Assets\Scripts\ObtenerObjetoN3.cs" />
+    <Compile Include="Assets\2D Platformer\Scripts\EnemyAI.cs" />
     <Compile Include="Assets\Scripts\MenuPause.cs" />
     <Compile Include="Assets\Scripts\ObtenerObjetoN2.cs" />
     <Compile Include="Assets\Scripts\MovimientoCeldasN2.cs" />
     <Compile Include="Assets\Scripts\ObtenerObjeto.cs" />
+    <Compile Include="Assets\2D Platformer\Scripts\CameraController.cs" />
+    <Compile Include="Assets\2D Platformer\Scripts\PlayerController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
@@ -80,6 +86,7 @@
     <None Include="Assets\Prefabs\Environment\Spritesheet\Black\runeBlack_rectangle_sheet.xml" />
     <None Include="Assets\Prefabs\Environment\Spritesheet\Black\runeBlack_tile_sheet.xml" />
     <None Include="Assets\Prefabs\Environment\Spritesheet\Black\runeBlack_tileOutline_sheet.xml" />
+    <None Include="Assets\Asset FTTGR\Shader\Wind.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
@@ -1060,12 +1067,12 @@
       <HintPath>Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.2D.SpriteShape.Runtime">
-      <HintPath>Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.VisualScripting.State.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.2D.SpriteShape.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.2D.PixelPerfect">
