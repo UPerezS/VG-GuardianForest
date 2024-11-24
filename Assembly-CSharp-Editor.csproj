@@ -1099,12 +1099,12 @@
       <HintPath>Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.2D.SpriteShape.Runtime">
-      <HintPath>Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.VisualScripting.State.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.2D.SpriteShape.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.2D.PixelPerfect">
@@ -1160,6 +1160,30 @@
     <ProjectReference Include="Assembly-CSharp.csproj">
       <Project>{9F44D70F-5BBE-2ADB-A04C-F408BCABD7B4}</Project>
       <Name>Assembly-CSharp</Name>
+    </ProjectReference>
+    <ProjectReference Include="Fungus.FungusLuaJSONCheckerEditor.csproj">
+      <Project>{31475D35-AF0A-08E4-0D25-5E1D7B3C4CFF}</Project>
+      <Name>Fungus.FungusLuaJSONCheckerEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Fungus.FungusLuaEditor.csproj">
+      <Project>{35A566A8-4FA9-93A3-7B9F-E8E9D5B92E4E}</Project>
+      <Name>Fungus.FungusLuaEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="FungusEditor.csproj">
+      <Project>{F5F4955E-A93A-C56B-CCB6-0703D415B8E9}</Project>
+      <Name>FungusEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Fungus.LineEndingsEditor.csproj">
+      <Project>{C3E716B8-50B9-B0C6-3BB3-F7E37303F7E9}</Project>
+      <Name>Fungus.LineEndingsEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Fungus.UsfxrEditor.csproj">
+      <Project>{48F018B7-AC41-DFE5-59B5-9477DD798DDA}</Project>
+      <Name>Fungus.UsfxrEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Fungus.csproj">
+      <Project>{8A02548A-87D6-C2C4-3687-FF72D0AD3F55}</Project>
+      <Name>Fungus</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
