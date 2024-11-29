@@ -44,6 +44,10 @@ public class ControladorDatosJuego : MonoBehaviour
         {
             GuardarDatos();
         }
+        if (Input.GetKeyUp(KeyCode.R))
+        {
+            ReiniciarPuntaje();
+        }
     }
 
     private void CargarDatos()

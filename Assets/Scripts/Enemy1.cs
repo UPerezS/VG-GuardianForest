@@ -12,6 +12,8 @@ public class Enemy1 : MonoBehaviour
     private bool puedeMoverse = false;
     public event EventHandler MuerteJugador;
 
+    private ControladorDatosJuego controladorDatos;
+
     // Límites del mapa
     public float limiteIzquierda = -7.5f;
     public float limiteDerecha = 7.5f;
@@ -23,6 +25,7 @@ public class Enemy1 : MonoBehaviour
         player = GameObject.FindGameObjectWithTag("Player").transform;
         animator = GetComponent<Animator>();
         StartCoroutine(IniciarMovimiento());
+        controladorDatos = FindObjectOfType<ControladorDatosJuego>();
     }
 
     void Update()
@@ -73,6 +76,10 @@ public class Enemy1 : MonoBehaviour
         {
             MuerteJugador?.Invoke(this, EventArgs.Empty);
             Debug.Log("Perdiste!");
+            if (controladorDatos != null)
+            {
+                controladorDatos.ReiniciarPuntaje();
+            }
         }
     }
 }
